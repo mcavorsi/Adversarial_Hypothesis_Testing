@@ -10,6 +10,9 @@ Trust values are found by using the opensource toolbox in [3] to analyze the sim
 
 References:
 [1] M. Cavorsi, O. E. Akgün, M. Yemini, A. J. Goldsmith, and S. Gil, “Exploiting trust for resilient hypothesis testing with malicious robots”, in 2023 IEEE International Conference on Robotics and Automation (ICRA), 2023, pp. 7663–7669.
+
 [2] A. S. Rawat, P. Anand, H. Chen, and P. K. Varshney, “Collaborative spectrum sensing in the presence of byzantine attacks in cognitive radio networks,” IEEE Transactions on Signal Processing, vol. 59, no. 2, pp. 774–786, 2010.
+
 [3] N. Jadhav, W. Wang, D. Zhang, S. Kumar, and S. Gil, “Toolbox release: A wifi-based relative bearing sensor for robotics,” ArXiv, vol. abs/2109.12205, 2021.
+
 [4] S. Gil, S. Kumar, M. Mazumder, D. Katabi, and D. Rus, “Guaranteeing spoof-resilient multi-robot networks,” AuRo, p. 1383–1400, 2017.

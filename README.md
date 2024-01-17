@@ -9,6 +9,7 @@ The experiment is described in detail in the paper, but code pieces that would b
 Trust values are found by using the opensource toolbox in [3] to analyze the similarity between different fingerprints from communicated WiFi signals to detect spoofed transmissions using the methods described in [4]. The opensource toolbox can be found here: https://github.com/Harvard-REACT/WSR-Toolbox
 
 References:
+
 [1] M. Cavorsi, O. E. Akgün, M. Yemini, A. J. Goldsmith, and S. Gil, “Exploiting trust for resilient hypothesis testing with malicious robots”, in 2023 IEEE International Conference on Robotics and Automation (ICRA), 2023, pp. 7663–7669.
 
 [2] A. S. Rawat, P. Anand, H. Chen, and P. K. Varshney, “Collaborative spectrum sensing in the presence of byzantine attacks in cognitive radio networks,” IEEE Transactions on Signal Processing, vol. 59, no. 2, pp. 774–786, 2010.

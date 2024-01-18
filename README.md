@@ -1,7 +1,7 @@
 # Adversarial_Hypothesis_Testing
-Code repository for the functions used in the experiments in the paper "Exploiting Trust for Resilent Hypothesis Testing with Malicious Robots" by Matthew Cavorsi, Orhan Eren Akgün, Michal Yemini, Andrea J. Goldsmith, and Stephanie Gil [1].
+Code repository for the functions used in the experiments in the paper "[Exploiting Trust for Resilent Hypothesis Testing with Malicious Robots](https://arxiv.org/pdf/2303.04075.pdf)" by Matthew Cavorsi, Orhan Eren Akgün, Michal Yemini, Andrea J. Goldsmith, and Stephanie Gil [1].
 
-The experiment is described in detail in the paper, but code pieces that would be useful for recreating or running similar experiments can be found here. Descriptions for each code file are included below:
+The experiment is described in detail in the paper, but code pieces that would be useful for recreating or running similar experiments can be found in the src folder of this repository. Descriptions for each code file are included below:
 * TSA.m - This is a MATLAB script that performs binary hypothesis testing using the Two Stage Approach (2SA) algorithm described in [1]. It also implements the strategy for the Oblivious FC and the Oracle FC.
 * GLRT_fn.m - This is a MATLAB script that performs binary hypothesis testing using the Adversarial Generalized Likelihood Ratio Test (A-GLRT) algorithm described in [1].
 * Baseline_FC.m - This is a MATLAB script that performs binary hypothesis testing using the Baseline Approach described in [1] from the work in [2].
